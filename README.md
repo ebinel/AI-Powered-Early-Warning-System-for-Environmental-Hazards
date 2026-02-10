@@ -98,5 +98,6 @@ Use deep learning models for more complex patterns.
 This project is open-source and available under the MIT License.
 
 👤 Author
-Agbozu Ebingiye Nelvin
+AGBOZU EBINGIYE NELVIN
 Email: nelvinebingiye@gmail.com
+LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
